@@ -1,0 +1,8 @@
+flask
+requests
+rasterio
+numpy
+pillow
+matplotlib
+psycopg2-binary
+python-dotenv
